@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rahulgh02" target="blank"><img src="https://img.shields.io/twitter/follow/rahulgh02?logo=twitter&style=for-the-badge" alt="rahulgh02" /></a> </p>
 
-- 💬 Ask me about **Data Engineering, Scalable Data Pipeline, Designing Data Lake, Data Democratization, Data Governance, Data Warehousing, Machine Learning and Deep Learning, Machine Learning Infrastructure Engineering, Machine Learning Lifecycle and Data Management**
+- 💬 Ask me about **Data Engineering, Machine Learning Infrastructure Engineering, Machine Learning Lifecycle and Data Management**
 
 - 📫 How to reach me **ghrahul2016@gmail.com**
 
